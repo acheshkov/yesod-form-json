@@ -9,6 +9,7 @@ Copyright: Anton Cheshkov
 Author: Anton Cheshkov <acheshkov@gmail.com>
 maintainer: Anton Cheshkov <acheshkov@gmail.com>
 Synopsis: Extension for Yesod web framework to handle JSON requests as applicative forms
+Description: Extension for Yesod web framework to handle JSON requests as applicative forms
 
 
 
@@ -27,4 +28,7 @@ Library
   Extensions:       FlexibleContexts
   Exposed-Modules:  Yesod.Form.JSON
   Ghc-options:      -Wall
-  
+
+source-repository head
+  type:     git
+  location: https://github.com/acheshkov/yesod-form-json.git
