@@ -1,7 +1,5 @@
 {-# LANGUAGE FlexibleContexts #-}
 
--- Types and functions for working efficiently with JSON data.
-
 
 module Yesod.Form.JSON 
 
